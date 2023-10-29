@@ -1,0 +1,150 @@
+Itinerary,Position,Higher Confidence,Itinerary Text,Roman Miles,After a Removed Location
+1,1,High Rochester,a Bremenio,0,FALSE
+1,2,Corbridge,Corstopitum,25,FALSE
+1,3,Ebchester,Vindomora,10,FALSE
+1,4,Binchester,Vinovia,20,FALSE
+1,5,Catterick,Cataractoni,22,FALSE
+1,6,Aldborough,Isurium,25,FALSE
+1,7,York,Eburacum leug VI victrix,17,FALSE
+1,8,Malton,Derventione,20,FALSE
+1,9,Millington,Delgovicia,13,FALSE
+1,10,Brough,Praetorio,22,FALSE
+2,1,Birrens,a Blatobulgio,0,FALSE
+2,2,Netherby,Castra Exploratorum,14,FALSE
+2,3,Carlisle,Luguvallo,11,FALSE
+2,4,Old Penrith,Voreda,14,FALSE
+2,5,Kirkby Thore,Brovonacis,14,FALSE
+2,6,Brough,Verteris,13,FALSE
+2,7,Bowes,Lavatris,14,FALSE
+2,8,Catterick,Cataractone,21,FALSE
+2,9,Aldborough,Isuriam,25,FALSE
+2,10,York,Eburacum,17,FALSE
+2,11,Tadcaster,Calcaria,10,FALSE
+2,12,Northwich,Condate,20,TRUE
+2,13,Chester,DevalegXXVic,20,FALSE
+2,14,Whitchurch,Medialano,15,TRUE
+2,15,Harcourt Mill (River Roden),Rutunio,12,FALSE
+2,16,Wroxeter,Urioconio,11,FALSE
+2,17,Red Hill,Uxacona,11,FALSE
+2,18,North Penkridge,Pennocrucio,12,FALSE
+2,19,"Wall, nr. Lichfield",Etoceto,14,FALSE
+2,20,North Mancetter,Manduesedo,16,FALSE
+2,21,High Cross,Venonis,11,FALSE
+2,22,Whilton Lodge,Bannaventa,19,FALSE
+2,23,Towcester,Lactodoro,12,FALSE
+2,24,Dropshort,Magiovinto,16,FALSE
+2,25,Dunstable,Durocobrivis,12,FALSE
+2,26,St. Albans,Verolamio,13,FALSE
+2,27,Brockley Hill,Sulloniacis,9,FALSE
+2,28,London,Londinio,13,FALSE
+2,29,Crayford,Noviomago,13,FALSE
+2,30,Springhead,Vagniacis,8,FALSE
+2,31,Rochester,Durobrovis,9,FALSE
+2,32,Canterbury,Duroverno,27,TRUE
+2,33,Richborough,Ad Portum Ritupis,13,FALSE
+5,1,Widford,Caesaromago,30,FALSE
+5,2,Colchester,Colonia,24,FALSE
+5,3,Scole,Villa Faustini,36,FALSE
+5,4,Caistor,Icinos,18,FALSE
+5,5,Cambridge,Duroliponte,26,TRUE
+5,6,Water Newton,Durobrivas,36,FALSE
+5,7,Lincoln,Lindo,19,TRUE
+5,8,Littleborough,Segeloci,14,FALSE
+5,9,Doncaster,Dano,23,FALSE
+5,10,Castleford,Legeolio,18,FALSE
+5,11,York,Eburaco,23,FALSE
+5,12,Aldborough,Isubrigantum,17,FALSE
+5,13,Catterick,Cataractoni,25,FALSE
+5,14,Bowes,Levatris,21,FALSE
+5,15,Brough,Verteris,14,FALSE
+5,16,Brougham,Brocavo,20,FALSE
+5,17,Carlisle,Luguvalio,21,FALSE
+6,1,St. Albans,Verolami,22,FALSE
+6,2,Dunstable,Durocobrius,13,FALSE
+6,3,Dropshort,Magiovinio,12,FALSE
+6,4,Towcester,Lactodoro,16,FALSE
+6,5,Whilton Lodge,Isannavantia,12,FALSE
+6,6,Cave's Inn,Tripontio,11,FALSE
+6,7,High Cross,Venonis,8,FALSE
+6,8,Leicester,Ratas,12,FALSE
+6,9,Willoughby,Verometo,14,FALSE
+6,10,Castle Hill,Margiduno,12,FALSE
+6,11,East Stoke,Ad Pontem,7,FALSE
+6,12,Brough,Crococalana,8,FALSE
+6,13,Lincoln,Lindo,13,FALSE
+7,1,Bitterne,Clausentum,29,TRUE
+7,2,Winchester,Venta Belgarum,10,FALSE
+7,3,Silchester,Galleva Atrebatum,25,FALSE
+7,4,Staines,Pontibus,27,FALSE
+7,5,London,Londinio,21,FALSE
+8,1,Castleford,Lagecio,23,FALSE
+8,2,Doncaster,Dano,18,FALSE
+8,3,Littleborough,Ageloco,23,FALSE
+8,4,Lincoln,Lindo,14,FALSE
+8,5,Brough,Crococalana,13,FALSE
+8,6,Castle Hill,Margiduno,15,FALSE
+8,7,Willoughby,Vernemeto,12,FALSE
+8,8,Leicester,Ratis,14,FALSE
+8,9,High Cross,Vennonis,12,FALSE
+8,10,Whilton Lodge,Bannavanto,19,FALSE
+8,11,Dropshort,Magiovinio,28,FALSE
+8,12,Dunstable,Durocobrivis,12,FALSE
+8,13,St. Albans,Verolamo,13,FALSE
+8,14,London,Londinio,22,FALSE
+9,1,Caistor,Venta Icinorum,0,FALSE
+9,2,Stratford St. Mary,Ad Ansam,15,TRUE
+9,3,Colchester,Camoloduno,7,FALSE
+9,4,Kelvedon,Canonio,10,FALSE
+9,5,Widford,Cesaromago,13,FALSE
+9,6,London,Lundinio,32,TRUE
+10,1,Ravenglass,Clanoventa,0,FALSE
+10,2,Ambleside,Galava,20,FALSE
+10,3,Burrow in Lonsdale,Galacum,19,TRUE
+10,4,Ribchester,Bremetonnaci,31,FALSE
+10,5,Wigan,Coccio,22,FALSE
+10,6,Manchester,Mamcunio,18,FALSE
+10,7,Northwich,Condate,20,FALSE
+10,8,Whitchurch,Mediolano,24,FALSE
+11,1,Caernarvon,Segontio,0,FALSE
+11,2,Caerhun,Conovio,24,FALSE
+11,3,Chester,Deva,29,TRUE
+12,1,Neatham,Vindomi,15,FALSE
+12,2,Winchester,Venta Belgarum,20,FALSE
+12,3,North Broughton,Brige,11,FALSE
+12,4,Old Sarum,Sorvioduni,13,FALSE
+12,5,Badbury,Vindogladia,23,FALSE
+12,6,Dorchester,Durnonovaria,20,FALSE
+12,7,Gittisham,Muriduno,39,FALSE
+12,8,Carmarthen,Dumnoniorum (Muriduno,0,FALSE
+12,9,Usk,Burrio,8,TRUE
+12,10,Abergavenny,Gobannio,11,FALSE
+12,11,Kenchester,Magnis,22,FALSE
+12,12,Leintwardine,Bravonio,23,FALSE
+12,13,Wroxeter,Viriconio,27,FALSE
+13,1,Caerleon,Isca,0,FALSE
+13,2,Usk,Burrio,8,FALSE
+13,3,Monmouth,Blestio,13,FALSE
+13,4,Weston under Penyard,Ariconio,12,FALSE
+13,5,Gloucester,Clevo,15,FALSE
+13,6,Cirencester,Corinio,18,FALSE
+13,7,Wanborough,Durocornovio,16,FALSE
+13,8,Woodspeen,Spinis,20,FALSE
+13,9,Silchester,Calleva,16,FALSE
+14,1,Caerleon,Isca,0,FALSE
+14,2,Caerwent,Venta Silurum,9,FALSE
+14,3,Sea Mills,Abone,14,FALSE
+14,4,Bitton,Traiectus,10,FALSE
+14,5,Bath,Aquis Sulis,6,FALSE
+14,6,Sandy Lane,Verlucione,15,FALSE
+14,7,Mildenhall,Cunetione,17,FALSE
+14,8,Woodspeen,Spinis,15,FALSE
+14,9,Silchester,Calleva,16,FALSE
+15,1,Silchester,Calleva,0,FALSE
+15,2,Neatham,Vindomi,15,FALSE
+15,3,Winchester,Venta Velgarum,20,FALSE
+15,4,North Broughton,Brige,11,FALSE
+15,5,Old Sarum,Sorbiodoni,13,FALSE
+15,6,Badbury,Vindocladia,23,FALSE
+15,7,Dorchester,Durnonovaria,20,FALSE
+15,8,Gittisham,Moriduno,39,FALSE
+15,9,Exeter,Isca Dumnoniorum,15,FALSE

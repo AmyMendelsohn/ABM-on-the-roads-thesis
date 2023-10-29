@@ -1,0 +1,27 @@
+id,label,modern,rank,x,y,cost,target,province,modern
+50032,Aquae Sulis,Bath,70,-2.372,51.395,0,0,Britannia,United Kingdom
+50090,Burrio,near Llancayo,80,-2.93,51.741,0,0,Britannia,United Kingdom
+50098,Calleva,Mortimer,80,-1.075,51.375,0,0,Britannia,United Kingdom
+50101,Camulodunum,Colchester,80,0.897,51.891,0,0,Britannia,United Kingdom
+50133,Coriosopitum,Corbridge,70,-2.003,54.976,0,0,Britannia,United Kingdom
+50147,Deva,Chester,80,-2.897,53.19,0,0,Britannia,United Kingdom
+50156,Durnonovaria,Dorchester,80,-2.435,50.71,0,0,Britannia,United Kingdom
+50160,Eburacum,York,90,-1.113,53.954,0,0,Britannia,United Kingdom
+50180,Galacum,near Kirkby Lonsdale,60,-2.592,54.171,0,0,Britannia,United Kingdom
+50186,Glevum,Glouchester,80,-2.262,51.867,0,0,Britannia,United Kingdom
+50207,Isca,Caerleon,80,-2.966,51.618,0,0,Britannia,United Kingdom
+50232,Lindum,Lincoln,80,-0.541,53.237,0,0,Britannia,United Kingdom
+50235,Londinium,London,100,-0.083,51.52,0,0,Britannia,United Kingdom
+50240,Luguvalium,Carlisle,80,-2.936,54.894,0,0,Britannia,United Kingdom
+50249,Mamucio,Manchester,70,-2.329,53.464,0,0,Britannia,United Kingdom
+50303,Petuaria,Winteringham,70,-0.592,53.687,0,0,Britannia,United Kingdom
+50330,Rutupiae,Sandwich,70,1.318,51.302,0,0,Britannia,United Kingdom
+50365,Spinis,Thatcham,60,-1.233,51.4,0,0,Britannia,United Kingdom
+50409,Venonis,Wibtoft,60,-1.299,52.487,0,0,Britannia,United Kingdom
+50411,Venta Icenorum,Stoke Holy Cross (Norwich),80,1.287,52.577,0,0,Britannia,United Kingdom
+50412,Venta,Winchester,80,-1.323,51.068,0,0,Britannia,United Kingdom
+50415,Verulamium,St. Albans,80,-0.356,51.745,0,0,Britannia,United Kingdom
+50421,Viroconium,Between Wroxeter and Eyton on Severn,80,-2.649,52.66,0,0,Britannia,United Kingdom
+50471,Segedunum,Newcastle upon Tyne,60,-1.529,54.99,0,0,Britannia,United Kingdom
+50730,x,,6,-2.811,52.089,0,0,Britannia,United Kingdom
+50759,Mouth of Witham,Boston / Skirbeck,6,0.005,52.964,0,0,Britannia,United Kingdom

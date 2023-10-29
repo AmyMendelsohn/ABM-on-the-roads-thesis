@@ -1,0 +1,623 @@
+,source,target,cost,sid,tid
+0,Abodiacum,Cambodunum,1.755,50001,50100
+1,Brigantium,Cambodunum,2.059,50083,50100
+2,Abodiacum,Maiensis Statio,7.888,50001,50473
+3,Pons Drusi,Maiensis Statio,0.895,50315,50473
+4,Abodiacum,Augusta Vindelicum,1.909,50001,50056
+5,Abodiacum,Parthanum,2.299,50001,50293
+6,Ad fl. Tigrim,Nisibis,3.226,50002,50275
+7,Edessa,Nisibis,7.893,50161,50275
+8,Ad Publicanos,Genava,2.842,50003,50182
+9,Ad Publicanos,Augusta Praetoria,3.82,50003,50052
+10,Ad Tricesimum,Aquileia,1.603,50004,50034
+11,Ad Tricesimum,x,0.921,50004,50747
+12,Iulium Carnicum,x,0.531,50211,50747
+13,Santicum,x,2.679,50339,50747
+14,Ad Aras,Saguntum,4.484,50005,50332
+15,Dertosa,Saguntum,5.313,50145,50332
+16,Ad Aras,Carthago Nova,5.025,50005,50108
+17,Ad Aras,Mariana,6.883,50005,50248
+18,Castulo,Mariana,3.179,50111,50248
+19,Adramyttium,Pergamum,1.745,50006,50300
+20,Adramyttium,Alexandria Troas,4.23,50006,50019
+21,Aeclanum,Beneventum,0.823,50007,50069
+22,Aequum Tuticum,Beneventum,1.054,50009,50069
+23,Aeclanum,Venusia,2.66,50007,50410
+24,Tarentum,Venusia,4.74,50377,50410
+25,Aelana,Petra,4.155,50008,50302
+26,Gaza,Petra,6.395,50181,50302
+27,Aequum Tuticum,Bovianum,2.187,50009,50081
+28,Aesernia,Bovianum,0.863,50010,50081
+29,Aequum Tuticum,Herdoniae,1.765,50009,50193
+30,Canusium,Herdoniae,1.371,50102,50193
+31,Aesernia,Corfinium,2.457,50010,50132
+32,Alba Fucens,Corfinium,1.36,50015,50132
+33,Ara Agrippinensium,Bonna,0.889,50012,50077
+34,Ara Agrippinensium,Bagacum,8.307,50012,50063
+35,Ara Agrippinensium,Ulpia Traiana Tricensimae,3.541,50012,50125
+36,Aguntum,x,3.393,50013,50763
+37,Pons Drusi,x,1.602,50315,50763
+38,Veldidena,x,2.352,50408,50763
+39,Aguntum,Iulium Carnicum,1.899,50013,50211
+40,Ake-Ptolemais,Tyrus,1.607,50014,50405
+41,Berytus,Tyrus,2.778,50073,50405
+42,Ake-Ptolemais,Caesarea Maritima,2.059,50014,50094
+43,Alba Fucens,Tibur,2.233,50015,50393
+44,Roma,Tibur,0.993,50327,50393
+45,Albulae,Siga,1.015,50016,50354
+46,Rusaddir,Siga,5.704,50328,50354
+47,Albulae,Sufasar,13.019,50016,50368
+48,Auzia,Sufasar,4.088,50060,50368
+49,Iol Caesarea,Sufasar,2.572,50206,50368
+50,Alexandria,Paraetonium,10.005,50017,50291
+51,Catabathmus Maior,Paraetonium,7.399,50112,50291
+52,Alexandria,Hierakonpolis,2.177,50017,50196
+53,Alexandria Troas,Ilium,0.811,50019,50204
+54,Altinum,x,0.836,50020,50746
+55,Patavium,x,0.787,50294,50746
+56,Atria,x,1.485,50502,50746
+57,Altinum,Iulia Concordia,1.498,50020,50209
+58,Aquileia,Iulia Concordia,1.504,50034,50209
+59,Ammaedara,Theveste,1.252,50021,50390
+60,Sufetula,Theveste,3.563,50369,50390
+61,Thamugadi,Theveste,5.59,50385,50390
+62,Thelepte,Theveste,2.372,50387,50390
+63,Ammaedara,Musti,3.793,50021,50260
+64,Carthago,Musti,4.321,50107,50260
+65,Ancona,Castrum Truentinum,3.173,50022,50110
+66,Asculum,Castrum Truentinum,0.982,50047,50110
+67,Aternum,Castrum Truentinum,1.937,50049,50110
+68,Ancona,Fanum Fortunae,1.759,50022,50171
+69,Ariminum,Fanum Fortunae,1.571,50042,50171
+70,Ancyra,Nicaea,10.503,50023,50271
+71,Ancyra,Tabia,5.605,50023,50376
+72,Ancyra,Archelais,7.697,50023,50039
+73,Ancyra,Germa,4.245,50023,50184
+74,Dorylaion,Germa,3.593,50153,50184
+75,Ancyra,Flaviopolis,4.711,50023,50219
+76,Claudiopolis,Flaviopolis,1.791,50076,50219
+77,Antiochia,Myriandros,1.635,50024,50644
+78,Katabolos,Myriandros,1.812,50216,50644
+79,Antiochia,Seleukeia Pieria,0.817,50024,50454
+80,Antiochia,Laodicea,3.019,50024,50225
+81,x,Laodicea,4.313,50038,50225
+82,Antiochia,x,0.624,50024,50767
+83,Cyrrhus,x,3.289,50139,50767
+84,x,x,1.763,50766,50767
+85,Caesarea (Phrygia),x,2.644,50025,50739
+86,Apamea (Pisidia),x,1.745,50027,50739
+87,Dorylaion,x,6.882,50153,50739
+88,Caesarea (Phrygia),Iconium,5.044,50025,50202
+89,Caesarea (Phrygia),Perge,8.701,50025,50437
+90,Side,Perge,1.992,50353,50437
+91,Apamea,x,1.712,50026,50766
+92,Laodicea,x,2.174,50225,50766
+93,Apamea,Epiphaneia,1.564,50026,50170
+94,Emesa,Epiphaneia,1.605,50164,50170
+95,Apamea,x,1.274,50026,50771
+96,Beroia,x,4.056,50072,50771
+97,Epiphaneia,x,0.507,50170,50771
+98,Palmyra,x,5.971,50290,50771
+99,Apamea (Pisidia),Laodicea ad Lycum,3.668,50027,50431
+100,Tralles,Laodicea ad Lycum,4.279,50400,50431
+101,Aphroditopolis,Memphis,1.922,50028,50254
+102,Heliopolis,Memphis,1.142,50189,50254
+103,Aphroditopolis,Herakleopolis,1.416,50028,50192
+104,Claudia Aprensis,Kallipolis,2.757,50029,50214
+105,Claudia Aprensis,Neapolis (Thrace),8.821,50029,50725
+106,Philippi,Neapolis (Thrace),0.674,50305,50725
+107,Claudia Aprensis,Perinthus,2.781,50029,50301
+108,Constantinopolis,Perinthus,3.329,50129,50301
+109,Hadrianoupolis,Perinthus,5.223,50187,50301
+110,Apulum,x,0.327,50030,50757
+111,Oescus,x,11.064,50282,50757
+112,x,x,2.556,50735,50757
+113,Apulum,Potaissa,2.776,50030,50318
+114,Porolissum,Potaissa,3.648,50316,50318
+115,Aquae Sextiae,Forum Iulii,3.879,50031,50176
+116,Aquae Sextiae,Arelate,2.445,50031,50040
+117,Arausio,Arelate,2.024,50037,50040
+118,Aquae Sextiae,Massilia,0.957,50031,50250
+119,Arelate,Massilia,3.192,50040,50250
+120,Aquae Sulis,Durnonovaria,3.069,50032,50156
+121,Aquae Sulis,Glevum,2.067,50032,50186
+122,Aquae Sulis,Spinis,2.874,50032,50365
+123,Calleva,Spinis,0.396,50098,50365
+124,Glevum,Spinis,3.194,50186,50365
+125,Aquae Terebellicae,Burdigala,4.618,50033,50088
+126,Aquae Terebellicae,Beneharnum,2.393,50033,50068
+127,Aquae Terebellicae,Summus Pyreneus (West),3.109,50033,50371
+128,Pompelo,Summus Pyreneus (West),1.194,50313,50371
+129,Aquileia,Tergeste,1.457,50034,50383
+130,Pola,Tergeste,3.8,50311,50383
+131,Senia,Tergeste,4.289,50349,50383
+132,Aquileia,Emona,3.705,50034,50166
+133,Celeia,Emona,2.412,50114,50166
+134,Aquincum,x,0.534,50035,50748
+135,Mursa,x,7.973,50259,50748
+136,Savaria,x,7.141,50343,50748
+137,Aquincum,Brigetio,2.674,50035,50085
+138,Arae Philaenorum,Praetorium,10.663,50036,50319
+139,Lepcis Magna,Praetorium,8.122,50230,50319
+140,Arae Philaenorum,Automalax,1.474,50036,50531
+141,Arausio,Valentia,3.311,50037,50406
+142,x,Tripolis,0.831,50038,50719
+143,Byblos,Tripolis,1.448,50643,50719
+144,Archelais,Tyana,4.052,50039,50404
+145,Caesarea (Cappadocia),Tyana,4.677,50095,50404
+146,Iconium,Tyana,7.348,50202,50404
+147,Mampsoukrenai,Tyana,3.43,50246,50404
+148,Arelate,Nemausus,1.048,50040,50269
+149,Narbo,Nemausus,4.711,50264,50269
+150,Arelate,Vappincum,6.766,50040,50407
+151,Segusio,Vappincum,4.35,50348,50407
+152,Valentia,Vappincum,5.081,50406,50407
+153,Argentorate,Cambete,3.862,50041,50099
+154,Augusta Raurica,Cambete,0.915,50053,50099
+155,Argentorate,Noviomagus,3.627,50041,50277
+156,Mogontiacum,Noviomagus,2.764,50257,50277
+157,Argentorate,Divodurum,4.896,50041,50459
+158,Augusta Treverorum,Divodurum,3.059,50124,50459
+159,Durocortorum,Divodurum,5.591,50157,50459
+160,Ariminum,Faventia,2.176,50042,50172
+161,Bononia,Faventia,1.7,50078,50172
+162,Ariminum,Ravenna,1.756,50042,50323
+163,Arretium,Clusium,1.84,50043,50122
+164,Arretium,Florentia,2.371,50043,50174
+165,Bononia,Florentia,3.071,50078,50174
+166,Faventia,Florentia,2.946,50172,50174
+167,Arupium,Senia,1.229,50045,50349
+168,Arupium,x,2.151,50045,50753
+169,Burnum,x,1.967,50089,50753
+170,Iader,x,1.905,50201,50753
+171,Ascalon,Lydda,1.734,50046,50243
+172,Caesarea Maritima,Lydda,2.192,50094,50243
+173,Emmaus,Lydda,0.615,50165,50243
+174,Ascalon,Gaza,0.92,50046,50181
+175,Ascalon,Eleutheropolis,1.197,50046,50074
+176,Asculum,Reate,3.33,50047,50324
+177,Asturica,Palantia,2.078,50048,50289
+178,Lacobriga,Palantia,2.345,50220,50289
+179,Lancia,Palantia,0.35,50224,50289
+180,Asturica,Salmantica,6.709,50048,50470
+181,Emerita Augusta,Salmantica,9.1,50163,50470
+182,Asturica,Bracara Augusta,9.647,50048,50082
+183,Asturica,Flavium Brigantium,8.111,50048,50084
+184,Bracara Augusta,Flavium Brigantium,7.592,50082,50084
+185,Aternum,Interpromium,1.333,50049,50205
+186,Corfinium,Interpromium,0.627,50132,50205
+187,Aternum,Larinum,3.572,50049,50226
+188,Athenae,Eleusis,0.702,50050,50162
+189,Aufidena,Sipontum,1.859,50051,50358
+190,Larinum,Sipontum,3.189,50226,50358
+191,Aufidena,Barium,2.161,50051,50066
+192,Augusta Praetoria,Vercellae,3.839,50052,50413
+193,Ticinum,Vercellae,2.407,50395,50413
+194,Augusta Praetoria,Penne Locos,3.367,50052,50298
+195,Augusta Raurica,Aventicum,3.312,50053,50062
+196,Augusta Raurica,Brigantium,5.853,50053,50083
+197,Augusta Suessionum,Samarobriva,3.331,50054,50337
+198,Gesoriacum,Samarobriva,3.728,50185,50337
+199,Lutetia,Samarobriva,4.959,50242,50337
+200,Augusta Suessionum,Durocortorum,1.959,50054,50157
+201,Augustobona,Durocortorum,4.239,50057,50157
+202,Bagacum,Durocortorum,4.237,50063,50157
+203,Augusta Taurinorum,Ticinum,4.465,50055,50395
+204,Augusta Taurinorum,Segusio,1.932,50055,50348
+205,Augusta Vindelicum,Summuntorium,1.12,50056,50370
+206,Noviomagus,Summuntorium,8.323,50277,50370
+207,Castra Regina,Summuntorium,3.96,50325,50370
+208,Augusta Vindelicum,Pons Aeni,4.416,50056,50314
+209,Iuvavum,Pons Aeni,3.001,50212,50314
+210,Augustobona,Augustodunum,6.501,50057,50059
+211,Augustobriga,x,3.773,50058,50727
+212,Emerita Augusta,x,0.74,50163,50727
+213,Sisapo,x,5.237,50360,50727
+214,Augustobriga,Toletum,5.23,50058,50744
+215,Bilbilis,Toletum,10.312,50075,50744
+216,Mariana,Toletum,6.22,50248,50744
+217,Augustodunum,Decetia,4.402,50059,50142
+218,Avaricum,Decetia,3.301,50061,50142
+219,Cenabum,Decetia,6.499,50115,50142
+220,Augustodunum,Cabilonnum,1.666,50059,50091
+221,Auzia,Perdices,6.871,50060,50299
+222,Avaricum,Limonum,6.274,50061,50231
+223,Avaricum,x,4.243,50061,50774
+224,Augustonemetum,x,3.274,50444,50774
+225,Augustoritum,x,2.362,50445,50774
+226,Aventicum,Vivisco,1.819,50062,50424
+227,Lousonna,Vivisco,0.601,50236,50424
+228,Penne Locos,Vivisco,0.392,50298,50424
+229,Bagacum,Nemetacum,2.793,50063,50270
+230,Gesoriacum,Nemetacum,3.497,50185,50270
+231,Banasa,Lixus,2.346,50064,50233
+232,Banasa,Sala,3.337,50064,50333
+233,Barcino,Emporiae,5.221,50065,50167
+234,Barcino,Tarraco,3.426,50065,50379
+235,Dertosa,Tarraco,2.811,50145,50379
+236,Ilerda,Tarraco,2.998,50203,50379
+237,Barium,Canusium,2.499,50066,50102
+238,Barium,Brundisium,3.754,50066,50086
+239,Batnae,Edessa,1.392,50067,50161
+240,Batnae,Carrhae,1.946,50067,50106
+241,Batnae,Caeciliana,1.606,50067,50092
+242,Beroia,Caeciliana,3.526,50072,50092
+243,Beneharnum,Lugdunum Convenarum,3.359,50068,50239
+244,Beneharnum,Summus Pyreneus (East),2.301,50068,50372
+245,Caesaraugusta,Summus Pyreneus (East),4.851,50093,50372
+246,Beneventum,Caudium,0.549,50069,50113
+247,Capua,Caudium,1.245,50104,50113
+248,Beneventum,Teanum,2.667,50069,50381
+249,Casinum,Teanum,1.33,50109,50381
+250,Minturnae,Teanum,0.886,50255,50381
+251,Berenice,Coptos,13.268,50070,50130
+252,Beroia,Cyrrhus,2.57,50072,50139
+253,Berytus,Byblos,1.181,50073,50643
+254,Eleutheropolis,Ierusalem,1.51,50074,50213
+255,Emmaus,Ierusalem,0.897,50165,50213
+256,Bilbilis,Caesaraugusta,2.557,50075,50093
+257,Claudiopolis,Heraclea Pontica,2.309,50076,50430
+258,Bonna,Confluentes,2.094,50077,50468
+259,Bononia,Mutina,1.322,50078,50261
+260,Bononia (Moesia),Taliata,3.296,50079,50375
+261,Dierna,Taliata,1.389,50149,50375
+262,Drobeta,Taliata,2.016,50154,50375
+263,Bononia (Moesia),Naissus,4.322,50079,50263
+264,Bononia (Moesia),Oescus,5.652,50079,50282
+265,Novae,Oescus,3.125,50276,50282
+266,Bostra,Philadelpheia,3.035,50080,50304
+267,Gadara,Philadelpheia,0.848,50178,50304
+268,Petra,Philadelpheia,7.229,50302,50304
+269,Bostra,x,1.321,50080,50760
+270,Kapitolias,x,0.949,50215,50760
+271,Philadelpheia,x,3.207,50304,50760
+272,Bostra,Damascus,4.297,50080,50140
+273,Bracara Augusta,Conimbriga,6.232,50082,50128
+274,Brigantium,Curia,2.83,50083,50137
+275,Comum,Curia,5.206,50127,50137
+276,Brigetio,x,1.36,50085,50768
+277,Carnuntum,x,2.8,50105,50768
+278,Savaria,x,3.357,50343,50768
+279,Brundisium,Tarentum,2.255,50086,50377
+280,Bulla Regia,Carthago,5.39,50087,50107
+281,Bulla Regia,Thuburnica,1.007,50087,50391
+282,Hippo Regius,Thuburnica,2.786,50198,50391
+283,Burdigala,Mediolanum (Aquitania),4.27,50088,50252
+284,Civitas Namnetum,Mediolanum (Aquitania),6.378,50121,50252
+285,Limonum,Mediolanum (Aquitania),4.342,50231,50252
+286,Burdigala,Aginnum,4.526,50088,50435
+287,Tolosa,Aginnum,3.729,50398,50435
+288,Burnum,Iader,2.272,50089,50201
+289,Burnum,Salona,2.837,50089,50336
+290,Narona,Salona,4.379,50266,50336
+291,Burrio,x,3.546,50090,50730
+292,Glevum,x,1.736,50186,50730
+293,Viroconium,x,2.451,50421,50730
+294,Burrio,Isca,0.493,50090,50207
+295,Glevum,Isca,2.666,50186,50207
+296,Cabilonnum,Vesontio,3.824,50091,50416
+297,Cambete,Vesontio,4.365,50099,50416
+298,Cabilonnum,Lugdunum,4.203,50091,50429
+299,Vienna,Lugdunum,1.116,50418,50429
+300,Caeciliana,Soura,5.622,50092,50364
+301,Circesium,Soura,6.353,50119,50364
+302,Palmyra,Soura,6.497,50290,50364
+303,Caeciliana,Zeugma,1.945,50092,50428
+304,Cyrrhus,Zeugma,3.586,50139,50428
+305,Edessa,Zeugma,2.97,50161,50428
+306,Caesaraugusta,Osca,2.434,50093,50285
+307,Ilerda,Osca,3.676,50203,50285
+308,Caesaraugusta,Pompelo,5.427,50093,50313
+309,Caesaraugusta,Calagurris,4.315,50093,50097
+310,Caesarea Maritima,Scythopolis,2.242,50094,50346
+311,Gadara,Scythopolis,2.122,50178,50346
+312,Ierusalem,Scythopolis,3.516,50213,50346
+313,Kapitolias,Scythopolis,1.574,50215,50346
+314,Caesarea (Cappadocia),Comana,3.804,50095,50126
+315,Caesarodunum,Cenabum,4.006,50096,50115
+316,Caesarodunum,Iuliomagus,3.847,50096,50210
+317,Civitas Namnetum,Iuliomagus,3.028,50121,50210
+318,Calagurris,Virovesca,4.264,50097,50422
+319,Pompelo,Virovesca,5.432,50313,50422
+320,Calleva,Londinium,2.533,50098,50235
+321,Camulodunum,Londinium,2.896,50101,50235
+322,Calleva,Venta,1.358,50098,50412
+323,Durnonovaria,Venta,3.517,50156,50412
+324,Camulodunum,Venta Icenorum,3.013,50101,50411
+325,Capsa,Thelepte,2.43,50103,50387
+326,Capsa,Tacape,4.911,50103,50374
+327,Hadrumetum,Tacape,10.747,50188,50374
+328,Sabratha,Tacape,9.471,50331,50374
+329,Capua,Sinuessa,1.364,50104,50357
+330,Cumae,Sinuessa,1.389,50136,50357
+331,Minturnae,Sinuessa,0.412,50255,50357
+332,Carnuntum,Scarbantia,1.962,50105,50344
+333,Savaria,Scarbantia,1.814,50343,50344
+334,Carnuntum,Vindobona,1.552,50105,50420
+335,Cetium,Vindobona,2.31,50116,50420
+336,Scarbantia,Vindobona,2.242,50344,50420
+337,Carthago,Hadrumetum,5.137,50107,50188
+338,Casinum,Fregellanum,1.006,50109,50177
+339,Ferentinum,Fregellanum,0.978,50173,50177
+340,Castulo,Corduba,3.929,50111,50131
+341,Catabathmus Maior,Darnis,10.387,50112,50141
+342,Cyrene,Darnis,2.607,50138,50141
+343,Celeia,x,0.6,50114,50738
+344,Poetovio,x,1.318,50310,50738
+345,Virunum,x,3.348,50423,50738
+346,Cenabum,Lutetia,3.84,50115,50242
+347,Cetium,Lauriacum,3.484,50116,50228
+348,Chalcedon,Nicomedia,2.915,50117,50272
+349,Nicaea,Nicomedia,2.058,50271,50272
+350,Cibalae,x,0.804,50118,50737
+351,Servitium,x,3.601,50351,50737
+352,x,x,1.801,50736,50737
+353,Cibalae,Mursa,1.194,50118,50259
+354,Cibalae,Sirmium,2.627,50118,50359
+355,Singidunum,Sirmium,2.546,50356,50359
+356,Circesium,Singara,6.929,50119,50355
+357,Nisibis,Singara,3.551,50275,50355
+358,Circesium,Dura,1.987,50119,50155
+359,Cirta,Rusicade,2.411,50120,50329
+360,Hippo Regius,Rusicade,3.497,50198,50329
+361,Cirta,Cuicul,3.169,50120,50135
+362,Cirta,Thamugadi,3.673,50120,50385
+363,Lambaesis,Thamugadi,0.694,50222,50385
+364,Cirta,Thagaste,5.248,50120,50384
+365,Hippo Regius,Thagaste,2.591,50198,50384
+366,Sicca Veneria,Thagaste,2.324,50352,50384
+367,Clusium,Volsinii,1.522,50122,50425
+368,Roma,Volsinii,3.528,50327,50425
+369,Clysma,Pelusium,5.44,50123,50297
+370,Heliopolis,Pelusium,5.879,50189,50297
+371,Augusta Treverorum,x,3.457,50124,50752
+372,Mogontiacum,x,0.964,50257,50752
+373,Confluentes,x,1.977,50468,50752
+374,Ulpia Traiana Tricensimae,Lugdunum Cananefatium,5.865,50125,50238
+375,Comana,Melitene,8.139,50126,50253
+376,Comum,Mediolanum,1.46,50127,50251
+377,Conimbriga,x,3.992,50128,50721
+378,Olisipo,x,2.601,50283,50721
+379,Constantinopolis,Deultum,9.626,50129,50146
+380,Coptos,Ptolemais Hermiou,4.655,50130,50321
+381,Lykopolis,Ptolemais Hermiou,3.423,50244,50321
+382,Coptos,Mons Porphyrites,5.833,50130,50677
+383,Coptos,Thebai,1.539,50130,50150
+384,Coptos,Myos Hormos,5.958,50130,50262
+385,Coptos,Klaudianon,4.949,50130,50218
+386,Corduba,Hispalis,4.671,50131,50199
+387,Gades,Hispalis,5.147,50179,50199
+388,Coriosopitum,Luguvalium,2.266,50133,50240
+389,Galacum,Luguvalium,3.101,50180,50240
+390,Coriosopitum,Eburacum,4.86,50133,50160
+391,Cosa,Roma,4.426,50134,50327
+392,Ferentinum,Roma,2.469,50173,50327
+393,Ocriculum,Roma,2.157,50279,50327
+394,Ostia/Portus,Roma,0.838,50286,50327
+395,Reate,Roma,2.505,50324,50327
+396,Cosa,Pisae,6.175,50134,50307
+397,Cuicul,Sitifis,1.191,50135,50362
+398,Perdices,Sitifis,1.513,50299,50362
+399,Cumae,Misenum,0.302,50136,50256
+400,Cumae,Puteoli,0.224,50136,50322
+401,Neapolis,Puteoli,0.401,50268,50322
+402,Cyrene,Ptolemais,3.491,50138,50320
+403,Cyrene,Apollonia-Sozousa,0.562,50138,50545
+404,Damascus,Kapitolias,3.932,50140,50215
+405,Damascus,Heliopolis (Baalbek),2.711,50140,50190
+406,Emesa,Heliopolis (Baalbek),3.514,50164,50190
+407,Damascus,Thelseai,1.45,50140,50388
+408,Palmyra,Thelseai,6.613,50290,50388
+409,Delphi,Lamia,2.697,50143,50466
+410,Larissa,Lamia,3.53,50227,50466
+411,Delphi,Naupactus,3.269,50143,50467
+412,Nicopolis,Naupactus,6.565,50273,50467
+413,Delphi,Thebae,2.882,50143,50386
+414,Eleusis,Thebae,1.618,50162,50386
+415,Dertona,Genua,2.132,50144,50183
+416,Forum Iulii,Genua,8.427,50176,50183
+417,Dertona,x,0.928,50144,50772
+418,Placentia,x,1.702,50309,50772
+419,Ticinum,x,0.72,50395,50772
+420,Deultum,Marcianopolis,4.582,50146,50247
+421,Deultum,x,6.632,50146,50751
+422,Hadrianoupolis,x,2.788,50187,50751
+423,Philippopolis,x,3.602,50306,50751
+424,Deva,Viroconium,2.25,50147,50421
+425,Venonis,Viroconium,3.373,50409,50421
+426,Deva,Mamucio,1.98,50147,50249
+427,Eburacum,Mamucio,3.541,50160,50249
+428,Galacum,Mamucio,3.044,50180,50249
+429,Diana Veteranorum,Lamasba,0.784,50148,50221
+430,Diana Veteranorum,Lambaesis,2.439,50148,50222
+431,Dierna,Tibiscum,3.048,50149,50392
+432,Sarmizegethusa,Tibiscum,1.708,50341,50392
+433,Thebai,Omboi,5.736,50150,50284
+434,Thebai,Mounesis,8.821,50150,50258
+435,Hibis,Mounesis,2.996,50195,50258
+436,Doclea,x,3.427,50151,50733
+437,Epidaurum,x,0.926,50528,50733
+438,x,x,2.012,50732,50733
+439,Doclea,Scodra,2.048,50151,50345
+440,Domavium,x,1.059,50152,50731
+441,Sirmium,x,3.205,50359,50731
+442,Dorylaion,Sardis,12.696,50153,50340
+443,Pergamum,Sardis,4.731,50300,50340
+444,Drobeta,x,5.798,50154,50735
+445,Sarmizegethusa,x,0.586,50341,50735
+446,Durostorum,Novae,5.931,50158,50276
+447,Durostorum,x,4.208,50158,50769
+448,Troesmis,x,2.169,50403,50769
+449,Dyrrhachium,Lissus,2.373,50159,50469
+450,Dyrrhachium,x,1.208,50159,50750
+451,Heraklea,x,6.191,50191,50750
+452,Nicopolis,x,10.478,50273,50750
+453,Eburacum,Lindum,3.627,50160,50232
+454,Eburacum,Petuaria,2.004,50160,50303
+455,Edessa,Samosata,1.817,50161,50338
+456,Melitene,Samosata,4.948,50253,50338
+457,Eleusis,Isthmia,1.429,50162,50550
+458,Corinthus,Isthmia,0.848,50549,50550
+459,Emerita Augusta,Italica,6.142,50163,50208
+460,Hispalis,Italica,0.249,50199,50208
+461,Emerita Augusta,x,7.823,50163,50726
+462,x,x,0.134,50721,50726
+463,Emona,Siscia,6.083,50166,50361
+464,Servitium,Siscia,3.203,50351,50361
+465,Emporiae,Narbo,4.471,50167,50264
+466,Endidae,Tridentum,1.159,50168,50402
+467,Iulia Concordia,Tridentum,5.838,50209,50402
+468,Endidae,Pons Drusi,0.752,50168,50315
+469,Ephesus,Smyrna,2.531,50169,50363
+470,Pergamum,Smyrna,3.739,50300,50363
+471,Sardis,Smyrna,2.991,50340,50363
+472,Ephesus,Magnesia,0.742,50169,50245
+473,Fanum Fortunae,Spoletium,5.079,50171,50366
+474,Narnia,Spoletium,1.288,50265,50366
+475,Florentia,Pistoriae,1.21,50174,50308
+476,Luca,Pistoriae,1.186,50237,50308
+477,Formiae,Tarracina,1.348,50175,50378
+478,Formiae,Minturnae,0.604,50175,50255
+479,Gaza,Raphia,1.076,50181,50654
+480,Pelusium,Raphia,5.978,50297,50654
+481,Genava,Vienna,5.171,50182,50418
+482,Valentia,Vienna,2.547,50406,50418
+483,Genava,Lousonna,2.095,50182,50236
+484,Genua,Luna,3.658,50183,50241
+485,Hadrumetum,Sufetula,5.623,50188,50369
+486,Heraklea,Stobi,3.057,50191,50367
+487,Serdica,Stobi,7.093,50350,50367
+488,Heraklea,Pella,4.618,50191,50296
+489,Herakleopolis,Krokodilopolis,1.13,50192,50661
+490,Herakleopolis,Oxyrhynchus,1.911,50192,50288
+491,Hermopolis Magna,Oxyrhynchus,3.868,50194,50288
+492,Hermopolis Magna,Lykopolis,2.926,50194,50244
+493,Hibis,Kellis,5.756,50195,50217
+494,Hierakonpolis,Naucratis,0.818,50196,50267
+495,Hierasykaminos,Syene,4.31,50197,50373
+496,Omboi,Syene,1.447,50284,50373
+497,Histria,x,0.843,50200,50770
+498,Tomis,x,0.971,50399,50770
+499,x,x,2.062,50769,50770
+500,Ilium,Lampsacus,2.235,50204,50223
+501,Iol Caesarea,Portus Magnus,9.155,50206,50474
+502,Siga,Portus Magnus,4.978,50354,50474
+503,Iol Caesarea,Saldae,10.714,50206,50334
+504,Rusicade,Saldae,7.07,50329,50334
+505,Italica,x,6.24,50208,50745
+506,Pax Iulia,x,0.563,50295,50745
+507,Iuliomagus,Condate,4.118,50210,50460
+508,Vorgium,Condate,4.97,50434,50460
+509,Iuvavum,Ovilava,3.089,50212,50287
+510,Lauriacum,Ovilava,1.362,50228,50287
+511,Katabolos,Tarsus,3.571,50216,50380
+512,Mampsoukrenai,Tarsus,0.64,50246,50380
+513,Kellis,Mothis,0.503,50217,50678
+514,Lacobriga,Dessobriga,0.84,50220,50465
+515,Virovesca,Dessobriga,3.196,50422,50465
+516,Iuliobriga,Dessobriga,2.506,50463,50465
+517,Lamasba,Zarai,1.447,50221,50427
+518,Perdices,Zarai,1.035,50299,50427
+519,Lancia,Legio VII,0.535,50224,50229
+520,Larissa,Thessalonica,5.346,50227,50389
+521,Pella,Thessalonica,1.456,50296,50389
+522,Lepcis Magna,Oea,3.977,50230,50281
+523,Lindum,Venonis,3.556,50232,50409
+524,Lixus,Tingi,2.731,50233,50396
+525,Loium,Rotomagus,1.022,50234,50461
+526,Lutetia,Rotomagus,4.218,50242,50461
+527,Loium,Iuliobona,0.47,50234,50462
+528,Londinium,Rutupiae,3.744,50235,50330
+529,Londinium,Verulamium,1.233,50235,50415
+530,Venonis,Verulamium,3.75,50409,50415
+531,Luca,x,0.413,50237,50765
+532,Luna,x,1.452,50241,50765
+533,Pisae,x,0.353,50307,50765
+534,Lugdunum Convenarum,Tolosa,3.62,50239,50398
+535,Narbo,Tolosa,5.073,50264,50398
+536,Luna,Parma,3.753,50241,50292
+537,Mutina,Parma,1.816,50261,50292
+538,Magnesia,Tralles,0.997,50245,50400
+539,Marcianopolis,Odessus,1.432,50247,50280
+540,Mariana,Sisapo,5.581,50248,50360
+541,Mediolanum,x,1.556,50251,50773
+542,Placentia,x,0.666,50309,50773
+543,Ticinum,x,1.126,50395,50773
+544,Mediolanum,Verona,5.716,50251,50414
+545,Mutina,Verona,3.308,50261,50414
+546,Patavium,Verona,2.864,50294,50414
+547,Tridentum,Verona,3.057,50402,50414
+548,Melitene,Sebasteia,7.269,50253,50347
+549,Nicopolis (Pontus),Sebasteia,4.341,50274,50347
+550,Memphis,Terenouthis,2.938,50254,50382
+551,Naucratis,Terenouthis,1.988,50267,50382
+552,Mursa,x,2.3,50259,50736
+553,Siscia,x,4.196,50361,50736
+554,Mursa,Poetovio,8.625,50259,50310
+555,Musti,Sicca Veneria,1.504,50260,50352
+556,Naissus,Serdica,5.236,50263,50350
+557,Philippopolis,Serdica,4.948,50306,50350
+558,Naissus,Horreum Margi,2.895,50263,50742
+559,Viminacium,Horreum Margi,3.248,50419,50742
+560,Naissus,Ulpiana,4.54,50263,50472
+561,Narnia,Ocriculum,0.457,50265,50279
+562,Narona,x,0.848,50266,50732
+563,x,x,7.34,50731,50732
+564,Naucratis,Boubastis,3.316,50267,50432
+565,Pelusium,Boubastis,4.178,50297,50432
+566,Neapolis,Nuceria,1.472,50268,50278
+567,Neapolis,Pompeii,0.923,50268,50312
+568,Nicopolis (Pontus),Satala,4.789,50274,50342
+569,Nuceria,Salernum,0.426,50278,50335
+570,Odessus,Tomis,5.303,50280,50399
+571,Oea,Sabratha,2.426,50281,50331
+572,Oescus,Philippopolis,6.658,50282,50306
+573,Olisipo,Pax Iulia,5.596,50283,50295
+574,Ovilava,Virunum,7.138,50287,50423
+575,Santicum,Virunum,1.588,50339,50423
+576,Ovilava,Boiodurum,2.451,50287,50743
+577,Castra Regina,Boiodurum,4.066,50325,50743
+578,Paraetonium,Ammon,11.59,50291,50682
+579,Parma,Placentia,2.029,50292,50309
+580,Parthanum,Veldidena,1.849,50293,50408
+581,Pons Aeni,Veldidena,3.797,50314,50408
+582,Philippi,Amphipolis,2.004,50305,50718
+583,Thessalonica,Amphipolis,3.391,50389,50718
+584,Poetovio,Savaria,4.547,50310,50343
+585,Ptolemais,Euesperides,3.727,50320,50538
+586,Automalax,Euesperides,9.548,50531,50538
+587,Ravenna,Atria,2.729,50323,50502
+588,Regium,Vibo Valentia,2.837,50326,50417
+589,Salernum,Vibo Valentia,10.657,50335,50417
+590,Roma,Forum Appii,2.402,50327,50720
+591,Tarracina,Forum Appii,0.858,50378,50720
+592,Saldae,Tubusuctu,0.906,50334,50394
+593,Sitifis,Tubusuctu,3.107,50362,50394
+594,Salona,Servitium,7.316,50336,50351
+595,Satala,Trapezus,4.395,50342,50401
+596,Scodra,x,0.453,50345,50749
+597,Lissus,x,0.908,50469,50749
+598,Ulpiana,x,5.584,50472,50749
+599,Sebasteia,Phiara,1.585,50347,50443
+600,Tabia,Phiara,6.6,50376,50443
+601,Amaseia,Phiara,5.394,50442,50443
+602,Singidunum,Viminacium,2.58,50356,50419
+603,Taliata,Viminacium,3.552,50375,50419
+604,Tibiscum,Viminacium,5.418,50392,50419
+605,Tingi,Volubilis,8.002,50396,50426
+606,Lugdunum,Augustonemetum,4.953,50429,50444
+607,Laodicea ad Lycum,Cibyra,3.133,50431,50436
+608,Aginnum,Augustoritum,7.451,50435,50445
+609,Cibyra,Xanthos,3.902,50436,50441
+610,Patara,Xanthos,0.67,50440,50441
+611,Cibyra,Attalea,4.747,50436,50447
+612,Perge,Attalea,0.562,50437,50447
+613,Phaselis,Attalea,1.744,50438,50447
+614,Phaselis,Myra,2.338,50438,50439
+615,Myra,Patara,2.506,50439,50440
+616,Amaseia,Amisus,4.061,50442,50458
+617,Iuliobriga,Portus Blendium,1.751,50463,50464
+618,Krokodilopolis,Oasis Parva,8.32,50661,50690
+619,Ammon,Oasis Parva,13.075,50682,50690
+620,Mothis,Qasr Farafra,8.195,50678,50700
+621,Oasis Parva,Qasr Farafra,5.952,50690,50700

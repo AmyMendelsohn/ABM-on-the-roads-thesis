@@ -1,0 +1,30 @@
+source,sid,tid,cost,id,target
+Aquae Sulis,50032,50156,3.069,50156,Durnonovaria
+Aquae Sulis,50032,50186,2.067,50186,Glevum
+Aquae Sulis,50032,50365,2.874,50365,Spinis
+Calleva,50098,50365,0.396,50365,Spinis
+Glevum,50186,50365,3.194,50365,Spinis
+Burrio,50090,50730,3.546,50730,x
+Glevum,50186,50730,1.736,50730,x
+Viroconium,50421,50730,2.451,50730,x
+Burrio,50090,50207,0.493,50207,Isca
+Glevum,50186,50207,2.666,50207,Isca
+Calleva,50098,50235,2.533,50235,Londinium
+Camulodunum,50101,50235,2.896,50235,Londinium
+Calleva,50098,50412,1.358,50412,Venta
+Durnonovaria,50156,50412,3.517,50412,Venta
+Camulodunum,50101,50411,3.013,50411,Venta Icenorum
+Coriosopitum,50133,50240,2.266,50240,Luguvalium
+Galacum,50180,50240,3.101,50240,Luguvalium
+Coriosopitum,50133,50160,4.86,50160,Eburacum
+Deva,50147,50421,2.25,50421,Viroconium
+Venonis,50409,50421,3.373,50421,Viroconium
+Deva,50147,50249,1.98,50249,Mamucio
+Eburacum,50160,50249,3.541,50249,Mamucio
+Galacum,50180,50249,3.044,50249,Mamucio
+Eburacum,50160,50232,3.627,50232,Lindum
+Eburacum,50160,50303,2.004,50303,Petuaria
+Lindum,50232,50409,3.556,50409,Venonis
+Londinium,50235,50330,3.744,50330,Rutupiae
+Londinium,50235,50415,1.233,50415,Verulamium
+Venonis,50409,50415,3.75,50415,Verulamium
