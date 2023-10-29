@@ -6,8 +6,7 @@ import pandas as pd
 import time, os
 from experiments.helper_functions import convert_to_folder_name
 
-# This file is to automate running experiments over multiple param combinations,
-# and produce whatever graphs are specified in `run_experiments.py` for each.
+# This file is to automate running experiments
 
 ITERATIONS = 30   
 spatial_networks = [
